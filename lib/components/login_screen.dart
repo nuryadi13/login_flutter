@@ -41,8 +41,10 @@ class _LoginPageState extends State<LoginPage> {
                     key: _loginFormKey,
                     child: Column(
                       children: [
-                        const PageHeading(
-                          title: 'Masuk',
+                        Center(
+                          child: const PageHeading(
+                            title: 'Masuk',
+                          ),
                         ),
                         CustomInputField(
                             labelText: 'Email',

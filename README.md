@@ -15,6 +15,7 @@ Form Login & Regiater ini di buat untuk memudahkan pengguna untuk mengisikan dat
 
 ## Features
 
+- Welcome User
 - Login
 - Register
 - Forgot Password
@@ -25,9 +26,10 @@ Form Login & Regiater ini di buat untuk memudahkan pengguna untuk mengisikan dat
 
 <br>
 
-### UI Design Figma
+### Design Figma
 
 <div align="center">
+  <img src="./assets/ss/welcome.png" alt="welcome" >
   <img src="./assets/ss/login.png" alt="login" >
   <img src="./assets/ss/register.png" alt="regist" >
   <img src="./assets/ss/forgot.png" alt="UI Design Figma" >
